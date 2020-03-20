@@ -133,7 +133,7 @@ waitress==0.8.9
 webapp2==2.5.2
 WebOb==1.4
 WebTest==2.0.16
-Werkzeug==0.9.6
+Werkzeug==0.15.3
 whitenoise==1.0.5
 wmctrl==0.1
 xattr==0.6.4
