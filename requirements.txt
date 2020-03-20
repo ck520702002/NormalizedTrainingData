@@ -23,7 +23,7 @@ easy-thumbnails==2.0.1
 facebook-sdk==0.4.0
 fake-factory==0.4.0
 fancycompleter==0.4
-Flask==0.10.1
+Flask==1.0
 -e git://github.com/lucemia/gcloud-python.git@9d7f861527da39c572d61abc8030c12d4c765216#egg=gcloud
 gnureadline==6.3.3
 google-api-python-client==1.2
