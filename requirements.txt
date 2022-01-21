@@ -32,7 +32,7 @@ html5lib==0.999
 httplib2==0.9
 httpretty==0.8.3
 huey==0.4.2
-ipython==2.1.0
+ipython==7.16.3
 itsdangerous==0.24
 jieba==0.38
 Jinja2==2.7.3
