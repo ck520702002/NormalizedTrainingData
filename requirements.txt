@@ -129,7 +129,7 @@ urllib3==1.7.1
 urwid==1.2.1
 user-agents==0.3.0
 virtualenv==1.11.6
-waitress==0.8.9
+waitress==2.1.1
 webapp2==2.5.2
 WebOb==1.4
 WebTest==2.0.16
