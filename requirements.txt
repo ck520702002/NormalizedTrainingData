@@ -28,7 +28,7 @@ Flask==0.10.1
 gnureadline==6.3.3
 google-api-python-client==1.2
 html2text==2014.4.5
-html5lib==0.999
+html5lib==0.99999999
 httplib2==0.9
 httpretty==0.8.3
 huey==0.4.2
